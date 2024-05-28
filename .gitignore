@@ -1,0 +1,41 @@
+# Django-specific files
+*.log 
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+
+# Virtual Environment
+.env
+venv/
+python_project/.env
+
+# PyCharm-specific files
+.idea/
+
+# Other files
+.DS_Store
+Thumbs.db
+.coverage
+.tox/
+.eggs/
+# Ignore the env directory
+env/
+
+# Ignore any env file
+.env
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore object files
+.o
+
+# Ignore log files
+.log
+# Ignore the env directory
+env/
+
+# Ignore any env file
+.env
